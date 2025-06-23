@@ -16,13 +16,13 @@ renforce un concept fondamental.
 
 2. Apprendre à manipuler les entrées et les sorties
 
-  - Lire des informations de l’utilisateur via gets.
+   - Lire des informations de l’utilisateur via gets.
 
-  - Afficher du texte ou des résultats via puts.
+   - Afficher du texte ou des résultats via puts.
 
 3.  Maîtriser les structures de contrôle
 
-   -  Utilisation des boucles (while, for, until).
+   - Utilisation des boucles (while, for, until).
 
    - Conditions (if, elsif, else, case).
 
@@ -62,4 +62,4 @@ renforce un concept fondamental.
 
    - Exos 15 à 18 : Jeux simples, manipulation de fichiers, mini-parsers de texte.
 
-    -Exos 19 à 20 : Structuration du code, introduction à des mini-menus ou à des scripts plus autonomes.
+   - Exos 19 à 20 : Structuration du code, introduction à des mini-menus ou à des scripts plus autonomes.
