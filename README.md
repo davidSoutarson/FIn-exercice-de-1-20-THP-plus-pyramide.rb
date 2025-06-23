@@ -1,44 +1,65 @@
 # FIn-exercice-de-1-20-THP-plus-pyramide.rb
-ce fichier contien le exercice pendan la formation thp donc la pyramide
 
-1. exo_01.rb – Affiche les nombres de 1 à 10.
+#🧠 Résumé pédagogique des exercices Ruby (exo_01 à exo_20)
 
-2. exo_02.rb – Demande un nombre à l’utilisateur et l’affiche.
+Ces 20 petits scripts ont pour but de faire progresser un débutant en Ruby en l’entraînant à manipuler 
+progressivement les bases du langage et de la logique algorithmique. Chaque exercice introduit ou 
+renforce un concept fondamental.
 
-3. exo_03.rb – Demande deux nombres et affiche leur somme.
+## 🎯 Objectifs pédagogiques principaux :
 
-4. exo_04.rb – Calcule la factorielle d’un nombre donné.
+1. Comprendre la syntaxe de base de Ruby
 
-5. exo_05.rb – Affiche les multiples de 3 jusqu’à 100.
+  - Écrire du code propre, lisible et exécutable.
 
-6. exo_06.rb – Gère une boucle while pour répéter une question.
+  - Apprendre à utiliser les bonnes conventions de nommage, les commentaires, et l’indentation.
 
-7. exo_07_a.rb – Variante A : boucle for affichant une suite simple.
+2. Apprendre à manipuler les entrées et les sorties
 
-8. exo_07_b.rb – Variante B : boucle until pour inverser l’ordre.
+  - Lire des informations de l’utilisateur via gets.
 
-9. exo_07_c.rb – Variante C : boucle break sur condition particulière.
+  - Afficher du texte ou des résultats via puts.
 
-10. exo_08.rb – Affiche un triangle ou une pyramide de *.
+3.  Maîtriser les structures de contrôle
 
-11. exo_09.rb – Remplace certains mots dans une chaîne (gsub).
+   -  Utilisation des boucles (while, for, until).
 
-12. exo_10.rb – Compte et affiche les éléments d’un tableau.
+   - Conditions (if, elsif, else, case).
 
-13. exo_11.rb – Trie un tableau introduit par l’utilisateur.
+  - Contrôle de flux avec break ou next.
 
-14. exo_12.rb – Filtre les nombres pairs d’un tableau.
+3.  Découvrir les types de données
 
-15. exo_13.rb – Génère la table de multiplication d’un nombre.
+  - Nombres, chaînes, tableaux, hachages.
 
-16. exo_14.rb – Convertit des degrés Celsius en Fahrenheit.
+  - Méthodes associées à chaque type (par exemple, map, each, join, split, etc.).
 
-17. exo_15.rb – Simule un jeu de “Devine mon nombre” simple.
+5. S’initier à l’algorithmique
 
-18. exo_16.rb – Lit un fichier texte et affiche son contenu.
+    - Réflexion logique : créer des pyramides, des compteurs, des jeux simples.
 
-19. exo_18.rb – Analyse un texte : compte les mots.
+    - Décomposition d’un problème en étapes claires (lecture, traitement, affichage).
 
-20. exo_19.rb – Fait un tri alphabétique de mots entrés.
+6. Développer l’autonomie
 
-21. exo_20.rb – Crée un menu CLI pour sélectionner des options.
+    - Lire, comprendre et modifier du code.
+
+    - Tester son code et corriger les erreurs (débogage).
+
+ 7. Créer des programmes interactifs
+
+    - Quelques scripts demandent des entrées de l’utilisateur, donnant un aspect dynamique et “vivant” au programme.
+
+    - Notions de condition sur l’entrée utilisateur, et de boucle pour répéter l’interaction.
+
+## 🧱 Progression logique des exercices :
+
+   -  Exos 01 à 06 : Premiers pas avec les boucles, les affichages, et les entrées.
+
+   -  Exos 07_a à 08 : Construction de motifs visuels (pyramides, triangles), complexité croissante dans les boucles.
+
+   -  Exos 09 à 14 : Travail sur les chaînes, les tableaux et la logique conditionnelle.
+
+   - Exos 15 à 18 : Jeux simples, manipulation de fichiers, mini-parsers de texte.
+
+    -Exos 19 à 20 : Structuration du code, introduction à des mini-menus ou à des scripts plus autonomes.
