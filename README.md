@@ -30,9 +30,9 @@ renforce un concept fondamental.
 
 3.  Découvrir les types de données
 
-    - Nombres, chaînes, tableaux, hachages.
+   - Nombres, chaînes, tableaux, hachages.
 
-    - Méthodes associées à chaque type (par exemple, map, each, join, split, etc.).
+   - Méthodes associées à chaque type (par exemple, map, each, join, split, etc.).
 
 5. S’initier à l’algorithmique
 
