@@ -1,6 +1,6 @@
 # FIn-exercice-de-1-20-THP-plus-pyramide.rb
 
-#🧠 Résumé pédagogique des exercices Ruby (exo_01 à exo_20)
+## 🧠 Résumé pédagogique des exercices Ruby (exo_01 à exo_20)
 
 Ces 20 petits scripts ont pour but de faire progresser un débutant en Ruby en l’entraînant à manipuler 
 progressivement les bases du langage et de la logique algorithmique. Chaque exercice introduit ou 
@@ -10,9 +10,9 @@ renforce un concept fondamental.
 
 1. Comprendre la syntaxe de base de Ruby
 
-  - Écrire du code propre, lisible et exécutable.
+   - Écrire du code propre, lisible et exécutable.
 
-  - Apprendre à utiliser les bonnes conventions de nommage, les commentaires, et l’indentation.
+   - Apprendre à utiliser les bonnes conventions de nommage, les commentaires, et l’indentation.
 
 2. Apprendre à manipuler les entrées et les sorties
 
@@ -26,13 +26,13 @@ renforce un concept fondamental.
 
    - Conditions (if, elsif, else, case).
 
-  - Contrôle de flux avec break ou next.
+   - Contrôle de flux avec break ou next.
 
 3.  Découvrir les types de données
 
-  - Nombres, chaînes, tableaux, hachages.
+    - Nombres, chaînes, tableaux, hachages.
 
-  - Méthodes associées à chaque type (par exemple, map, each, join, split, etc.).
+    - Méthodes associées à chaque type (par exemple, map, each, join, split, etc.).
 
 5. S’initier à l’algorithmique
 
