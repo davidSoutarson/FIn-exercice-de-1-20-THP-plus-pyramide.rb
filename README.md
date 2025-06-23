@@ -28,7 +28,7 @@ renforce un concept fondamental.
 
    - Contrôle de flux avec break ou next.
 
-3.  Découvrir les types de données
+4.  Découvrir les types de données
 
    - Nombres, chaînes, tableaux, hachages.
 
